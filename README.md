@@ -6,7 +6,6 @@
 <h3>👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Machine Learning enthusiast
-- 🔭 &nbsp; I’m currently learning Backend Web Development
 - 🤔 &nbsp; Exploring and learning everyday
 - 🎓 &nbsp; Junior Computer Science student
 - ✍️ &nbsp; Working on research and participating in competitions
