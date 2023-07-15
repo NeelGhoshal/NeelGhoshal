@@ -18,9 +18,6 @@
 - 🔧 &nbsp; Jupyter | PyCharm | Visual Studio code | Eclipse | Git
 
 <br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neelghoshal&theme=onedark&show_icons=true" alt="Neel's Github Stats">
-</p>
 
 <br>
 <p align='center'> 
