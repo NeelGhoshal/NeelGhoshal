@@ -7,7 +7,7 @@
 
 - 💼 &nbsp; Machine Learning enthusiast
 - 🤔 &nbsp; Exploring and learning everyday
-- 🎓 &nbsp; Junior Computer Science student
+- 🎓 &nbsp; Senior Computer Science student
 - ✍️ &nbsp; Working on research and participating in competitions
 
 <h3>🛠 Tech Stack</h3>
