@@ -7,7 +7,7 @@
 
 - 💼 &nbsp; Machine Learning enthusiast
 - 🤔 &nbsp; Exploring and learning everyday
-- 🎓 &nbsp; Graduate Computer Science Student at NCSU
+- 🎓 &nbsp; Masters in Computer Science grad
 - ✍️ &nbsp; Working on research and development 
 
 <h3>🛠 Tech Stack</h3>
